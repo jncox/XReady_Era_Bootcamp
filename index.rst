@@ -1,4 +1,4 @@
-.. title:: XReady Enablement Bootcamp - Era
+.. title:: XReady Enablement Workshop - Era
 
 .. toctree::
   :maxdepth: 2
